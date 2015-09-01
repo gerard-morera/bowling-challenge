@@ -1,7 +1,7 @@
 
 Bowling Challenge
 =================
-This is a weekend exercice suggested by Makers Academy. 
+This is a weekend exercise suggested by Makers Academy. 
 
 It is an small program that calculates the score of a bowling game.
 
